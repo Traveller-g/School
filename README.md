@@ -123,6 +123,8 @@ public static void ratepaying() {
 		System.out.println("--------------工资查询------------");
 		check(check);
 ```
+### ___纳税标准___
+![运行结果](https://github.com/Traveller-g/School/blob/main/img/1-1P9201S1231B.jpg)
 ### ___运行结果截图___
 ![运行结果](https://github.com/Traveller-g/School/blob/main/img/1605098188.jpg)
 ### ___编程感想___
