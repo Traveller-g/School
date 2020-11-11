@@ -124,3 +124,6 @@ public static void ratepaying() {
 		check(check);
 ```
 ### ___运行结果截图___
+![运行结果](https://github.com/Traveller-g/School/blob/main/img/1605098188.jpg)
+### ___编程感想___
+通过这次接口程序实验的编写，发现自己对数组的知识掌握的不是很熟练。
